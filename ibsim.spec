@@ -1,12 +1,12 @@
 Summary:	Voltaire Infiniband Fabric Simulator
 Summary(pl.UTF-8):	Symulator materiału Infiniband Voltaire
 Name:		ibsim
-Version:	0.6
+Version:	0.7
 Release:	1
 License:	BSD or GPL v2
 Group:		Networking/Utilities
 Source0:	http://www.openfabrics.org/downloads/management/%{name}-%{version}.tar.gz
-# Source0-md5:	d08e196d980e7c88066b3e5e25bf5432
+# Source0-md5:	7ff8756f222799d042f7309777cc711d
 URL:		http://www.openfabrics.org/
 BuildRequires:	libibmad-devel
 BuildRequires:	libibumad-devel
